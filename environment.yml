@@ -1,0 +1,12 @@
+name: mypy
+channels:
+  - conda-forge
+dependencies:
+  - black
+  - flake8
+  - ipykernel
+  - ipywidgets
+  - tqdm
+  - pytest
+  - pip:
+      - -e .  # Install the local package (src)
