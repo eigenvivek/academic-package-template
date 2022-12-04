@@ -1,6 +1,13 @@
 # academic-package-template
 Python package template for academic projects with fast and easy building / testing.
 
+## How to use
+
+1. Use this template
+2. Create a new repository
+3. Change all things in `Things to change`
+4. Develop code, run experiments, write paper!
+
 ## Things to change
 
 `src/`
