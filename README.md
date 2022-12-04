@@ -20,3 +20,7 @@ Python package template for academic projects with fast and easy building / test
 
 `enviornment.py`
 - Add whatever dependencies your package needs
+
+## Other notes
+
+- We use `micromamba` with download/environment caching to massively speed up the build times for CI. In my experience, this can be as much as a 3-5X speedup!
