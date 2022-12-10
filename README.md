@@ -1,5 +1,5 @@
 # academic-package-template
-![Build Status](https://github.com/eigenvivek/academic-package-template/actions/workflows/CI.yml/badge.svg?branch=main)
+[![CI](https://github.com/eigenvivek/academic-package-template/actions/workflows/CI.yml/badge.svg)](https://github.com/eigenvivek/academic-package-template/actions/workflows/CI.yml)
 
 Python package template for academic projects with fast and easy building / testing.
 
